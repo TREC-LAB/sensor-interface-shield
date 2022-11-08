@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-03-31T15:29:08Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "TIVA_SHIELD_Ver_1.4"
+        },
+        "Owner": "Zachary Fuge <zachf287@vt.edu>",
+        "Size": {
+            "X": 50.8054,
+            "Y": 66.0402
+        }
+    }
+}
